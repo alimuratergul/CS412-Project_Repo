@@ -4,9 +4,9 @@
 This repository contains the notebooks for each round and documentation related to the project. Below is an overview of the key components:
 
 ### Notebooks
-- **`project_round1.ipynb`**: Jupyter Notebook for Round 1 of the project.
-- **`project_round2.ipynb`**: Jupyter Notebook for Round 2 of the project.
-- **`project_round3.ipynb`**: Jupyter Notebook for Round 3 of the project.
+- [**`project_round1.ipynb`**](https://github.com/alimuratergul/CS412-Project_Repo/blob/main/project_round1.ipynb): Jupyter Notebook for Round 1 of the project.
+- [**`project_round2.ipynb`**](https://github.com/alimuratergul/CS412-Project_Repo/blob/main/project_round2.ipynb): Jupyter Notebook for Round 2 of the project.
+- [**`project_round3.ipynb`**](https://github.com/alimuratergul/CS412-Project_Repo/blob/main/project_round3.ipynb): Jupyter Notebook for Round 3 of the project.
 
 ## Methodology
 This section provides a high-level explanation of the methodology used in the project in each round:
